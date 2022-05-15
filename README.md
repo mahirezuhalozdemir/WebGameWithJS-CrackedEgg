@@ -8,7 +8,7 @@ Oyun yumurtayı düşürmeden engeller arasında hareket ettirmeyi amaçlar.Bir 
 Oyun JS,CSS ve HTML kullanılarak geliştirilmiştir.Bu projede bir tane HTML sayfası, bir tane CSS ve bir tane de JS sayfası kullanılmıştır. 
 Js metot,nesne ve event listener yapılarından yararlanılmıştır. Css ile oyun biçimlendirilip, Html ile web sitesine yüklenir.
 
-Oyunu oynamak için [tıklayınız](https://crackedegg.eu5.org/)  :+1:
+Oyunu oynamak için [tıklayınız](http://crackedegg.eu5.org/)  :+1:
 
 ![github1](https://user-images.githubusercontent.com/73248614/168489043-dfb039d0-607d-48ea-b3e2-1deeb744a137.jpg)
 
