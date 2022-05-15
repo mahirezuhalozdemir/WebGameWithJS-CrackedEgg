@@ -1,0 +1,99 @@
+
+body{
+    background-color: rgb(237, 127, 100);
+}
+#canvas{
+    border: 2px solid #7843e6;
+    position: absolute;
+    margin :auto;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
+h1
+{
+    width: 100%;
+    height: 18%;
+    padding-top: 25px;
+    color:#7843e6;
+    font-family: 'Castellar','Courier New','Courier','Arial';;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0;
+}
+.buttons
+{
+    top:85%;
+    left:50%;
+    position:absolute;
+    transform: translate(-50%);
+    font-family: 'Castellar','Courier New','Courier','Arial';
+}
+.btn0{
+
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    font-size: 15px;
+    background-color:rgb(253, 210, 203);
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+
+.btn1{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    font-size: 15px;
+    background-color:rgb(253, 210, 203);
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+
+    
+}
+.btn2{
+
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    font-size: 15px;
+    background-color:rgb(253, 210, 203);
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+.btn3{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    font-size: 15px;
+    background-color:rgb(253, 210, 203);
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+.buttons button:hover
+{
+    color: #7843e6;
+}
+
+
+
+#result{
+	position: relative;
+	width: 25%;
+}
+.resultp{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: black;
+	font-size: 30px;
+	width: 100%;
+	margin: 0;
+	text-align: center;
+}
